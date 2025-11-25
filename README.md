@@ -1,10 +1,8 @@
 ## Familiar With 🦘
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45" height="45" style="filter: invert(1);" />
-  ![Go](https://img.shields.io/badge/Go_Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 </p>
-
+![Go](https://img.shields.io/badge/Go_Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ---
 
 ## Currently Learning 🌱
