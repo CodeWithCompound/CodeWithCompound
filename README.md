@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59ff&height=230&section=header&text=zot&fontSize=80&fontAlign=50&fontColor=ffffff&desc=CodeWithCompound&descAlign=50&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59ff&height=230&section=header&text=zot&fontSize=80&fontAlign=50&fontColor=ffffff&desc=&descAlign=50&descSize=20" />
 </p>
 
 <p align="center">
@@ -8,16 +8,18 @@
 
 ---
 
-## 🟣 main languages  
+<h2 align="center">🟣 main languages</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=DEA584" />
   <img src="https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=F89820" />
 </p>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## used before 🐹
+<h2 align="center">used before 🐹</h2>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
@@ -27,17 +29,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" height="45" />
 </p>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## tech stack 💻
+<h2 align="center">tech stack 💻</h2>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="filter: invert(1);" />
 </p>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## contact me! ⭐
+<h2 align="center">contact me! ⭐</h2>
+
 <p align="center">
   <a href="https://discord.com/users/1431969522537201764">
     <img src="https://img.shields.io/badge/zot%20on%20discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff" />
