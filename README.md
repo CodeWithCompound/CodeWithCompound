@@ -43,11 +43,11 @@
 <h3 align="center" style="color:#9b59ff; font-weight:400;">stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithCompound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-mu-virid.vercel.app/api?username=CodeWithCompound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithCompound&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-mu-virid.vercel.app/api/top-langs/?username=CodeWithCompound&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
