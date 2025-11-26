@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59ff&height=230&section=header&text=zot&fontSize=80&fontAlign=50&fontColor=ffffff&desc=&descAlign=50&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59ff&height=230&section=header&text=zot&fontSize=80&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">🟣 main languages</h2>
+<h3 align="center" style="color:#9b59ff; font-weight:400;">main languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=DEA584" />
@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=F89820" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center" style="color:#444;">────────────────────────────</p>
 
-<h2 align="center">used before 🐹</h2>
+<h3 align="center" style="color:#9b59ff; font-weight:400;">used before</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
@@ -29,18 +29,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" height="45" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center" style="color:#444;">────────────────────────────</p>
 
-<h2 align="center">tech stack 💻</h2>
+<h3 align="center" style="color:#9b59ff; font-weight:400;">tech stack</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="filter: invert(1);" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center" style="color:#444;">────────────────────────────</p>
 
-<h2 align="center">contact me! ⭐</h2>
+<h3 align="center" style="color:#9b59ff; font-weight:400;">contact</h3>
 
 <p align="center">
   <a href="https://discord.com/users/1431969522537201764">
