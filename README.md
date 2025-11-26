@@ -27,3 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="filter: invert(1);" />
 </p>
+
+---
+
+## contact me! ⭐
+<p>
+  	[![Discord](https://img.shields.io/badge/zot%20on%20discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff)](https://discord.com/users/1431969522537201764)
+</p>
+
