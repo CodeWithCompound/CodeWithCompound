@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59ff&height=200&section=header&text=zot%20%7C%20CodeWithCompound&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59ff&height=200&section=header&text=zot%20%7C%20&fontSize=40&fontColor=ffffff" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B59FF&center=true&vCenter=true&width=600&lines=zot%20//%20backend%20enjoyer%20//%20rust%20addict;learning%20Go%20and%20Java;shipping%20gremlin%20projects%20on%20GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B59FF&center=true&vCenter=true&width=600&lines=zot%20//%20backend%20enjoyer%20//%20rust%20addict;learning%20Go%20and%20Java;shipping%20cool%20projects%20on%20GitHub" />
 </p>
 
 
