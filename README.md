@@ -31,7 +31,16 @@
 ---
 
 ## contact me! ⭐
-<p>
-  	[![Discord](https://img.shields.io/badge/zot%20on%20discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff)](https://discord.com/users/1431969522537201764)
-</p>
 
+[![Discord](https://img.shields.io/badge/zot%20on%20discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff)](https://discord.com/users/1431969522537201764)
+
+
+
+
+
+
+
+
+
+
+    
