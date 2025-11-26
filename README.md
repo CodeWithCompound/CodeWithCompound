@@ -1,7 +1,8 @@
-## familiar with 🦘
+## learning for school / job 🦘
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45" height="45" style="filter: invert(1);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" style="filter: invert(1);" />
 </p>
 
 
