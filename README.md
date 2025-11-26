@@ -21,12 +21,12 @@
 <h3 align="center" style="color:#9b59ff; font-weight:400;">used before</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" style="filter: invert(1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" height="45" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite&logoColor=646CFF" />
 </p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
@@ -34,8 +34,24 @@
 <h3 align="center" style="color:#9b59ff; font-weight:400;">tech stack</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="filter: invert(1);" />
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=ffffff" />
+</p>
+
+<p align="center" style="color:#444;">────────────────────────────</p>
+
+<h3 align="center" style="color:#9b59ff; font-weight:400;">stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithCompound&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithCompound&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithCompound&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
