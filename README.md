@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center" style="color:#9b59ff; font-weight:400;">main languages</h3>
+<h3 align="center" style="color:#9b59ff; font-weight:400;">main language</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=DEA584" />
