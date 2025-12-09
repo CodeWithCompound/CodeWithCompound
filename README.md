@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=F89820" />
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express&logoColor=ffffff" />
