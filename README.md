@@ -17,17 +17,18 @@
 <p align="center" style="color:#444;">────────────────────────────</p>
 
 <h3 align="center" style="color:#9b59ff; font-weight:400;">used before</h3>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+ <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=F89820" />
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
 
