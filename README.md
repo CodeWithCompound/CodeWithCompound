@@ -27,6 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=F89820" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
 
