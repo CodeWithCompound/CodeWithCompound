@@ -12,6 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=DEA584" />
+  <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 </p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
