@@ -11,7 +11,6 @@
 <h3 align="center" style="color:#9b59ff; font-weight:400;">main language</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=DEA584" />
   <img src="https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 </p>
 
@@ -26,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=DEA584" />
   <img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=F89820" />
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
