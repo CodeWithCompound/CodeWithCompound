@@ -38,6 +38,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FCC624" />
+
 </p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
