@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B59FF&center=true&vCenter=true&width=600&lines=zot%20//%20low-level%20enjoyer%20//%20c%20addict;learning%20C%20%&20Java;shipping%20cool%20projects%20on%20GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B59FF&center=true&vCenter=true&width=600&lines=zot%20//%20low-level%20enjoyer%20//%20c%20addict;learning%20C%20&20Java;shipping%20cool%20projects%20on%20GitHub" />
 </p>
 
 ---
