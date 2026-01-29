@@ -58,13 +58,9 @@
   <a href="https://discord.com/users/1431969522537201764">
     <img src="https://img.shields.io/badge/zot%20on%20discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff" />
   </a>
-    <a href="https://leetcode.com/u/codewithcompound/">
-    <img src="https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode&logoColor=9b59ff" />
-  </a>
-</p>
-<p align="center">
   <a href="https://leetcode.com/u/codewithcompound/">
     <img src="https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode&logoColor=9b59ff" />
   </a>
 </p>
+
 
