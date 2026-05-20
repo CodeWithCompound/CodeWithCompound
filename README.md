@@ -6,8 +6,8 @@
   <strong>apprenticeship prep</strong>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=c-sharp&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
 <p align="center" style="color:#444; margin: 10px 0;">────────────────────────────</p>
@@ -16,10 +16,10 @@
   <strong>volunteer web development</strong>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
