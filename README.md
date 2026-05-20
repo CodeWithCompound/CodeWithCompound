@@ -3,21 +3,31 @@
 </p>
 
 <p align="center">
-  <strong>working towards full stack web dev with rust</strong>
+  <strong>apprenticeship prep</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust&logoColor=DEA584" />
-  <img src="https://img.shields.io/badge/Axum-111?style=for-the-badge&logo=rust&logoColor=ffffff" />
-</p>
+<p align="center" style="color:#444; margin: 10px 0;">────────────────────────────</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeWithCompound&theme=tokyonight&hide_border=true&background=00000000" />
+  <strong>volunteer web development</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
 
 <p align="center">
+  <a href="https://github.com/CodeWithCompound">
+    <img src="https://img.shields.io/badge/github-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://discord.com/users/1431969522537201764">
     <img src="https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff" />
   </a>
